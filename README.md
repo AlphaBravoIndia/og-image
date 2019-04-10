@@ -6,7 +6,7 @@
 
 Serverless service that generates dynamic Open Graph images that you can embed in your `<meta>` tags.
 
-See the image embedded in the tweet for a real use case.
+See the image embedded in the tweet for a real use case. Used for <a href="https://breakout.careers">Breakout Careers</a>.
 
 
 ## What is an Open Graph Image?
